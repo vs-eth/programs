@@ -13,7 +13,7 @@ pkgs:
   # Misc administration programs
   - htop
   - iftop
-  - iotop
+  - iotop-c
   - lshw
   - lsof
   - nmon
